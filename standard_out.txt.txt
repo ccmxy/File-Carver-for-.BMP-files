@@ -1,0 +1,18 @@
+Please enter the name of the input file:
+C:\Users\jeanm\Desktop\bmpHumanity\steg.bmp
+
+
+BMP file detected at 130448 of size 3038 bytes.
+The MD5 hash of this source is: 8c4a02b12b7a9f66dba7c5fc908f176f.
+View this file at C:\Users\jeanm\Desktop\bmpHumanity\steg.bmp_Output\130448.bmp
+
+
+BMP file detected at 0 of size 1216166 bytes.
+The MD5 hash of this source is: 0e0286f8d340588739054d6090e37a85.
+View this file at C:\Users\jeanm\Desktop\bmpHumanity\steg.bmp_Output\0.bmp
+
+
+Other file detected at 1216167 of size 1864 bytes.
+The MD5 hash of this source is: 819fc47b2385f90da9e320c180ad7865.
+View this file at C:\Users\jeanm\Desktop\bmpHumanity\steg.bmp_Output\1216167.other
+Press enter to exit
